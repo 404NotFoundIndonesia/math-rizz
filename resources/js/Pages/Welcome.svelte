@@ -9,7 +9,7 @@
                 <h1 class="poppins-bold h1-large">Welcome to Math Rizz</h1>
                 <p>Buka pintu kekuatan matematika dengan Math Rizz, platform e-learning ultimat untuk siswa SMA. Jelajahi dunia pelajaran interaktif, tantangan yang menarik, dan pengalaman belajar kolaboratif yang dirancang untuk membuat matematika menyenangkan dan mudah dipahami untuk semua orang.</p>
 
-                <a href="/" class="btn btn-primary btn-lg my-3">Masuk</a>
+                <a href="/login" class="btn btn-primary my-3">Mulai Perjalananmu!</a>
             </div>
             <div class="d-none d-sm-flex col-12 col-md-6 col-lg-4 hero-image-container">
                 <img class="hero-image" src="https://www.gvclearn.com/documents/185112/0/001+%281%29.png/3c0e4119-d5ea-d994-6820-93748d7b7593?t=1608961060520" alt="Person who study math">
