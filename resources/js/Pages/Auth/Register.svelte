@@ -1,3 +1,7 @@
+<script>
+    import Footer from "../Components/Footer.svelte";
+
+</script>
 <!-- register 9 - Bootstrap Brain Component -->
 <section class="" id="register">
     <div class="container py-3 py-md-5 py-xl-8">
@@ -97,6 +101,8 @@
       </div>
     </div>
 </section>
+
+<Footer />
 
 <style>
     section#register {
