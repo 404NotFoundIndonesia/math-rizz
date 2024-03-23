@@ -4,6 +4,8 @@
 
 Math Rizz is a comprehensive mathematics e-learning web platform designed to enhance the learning experience for high school students (SMA level). It provides interactive lessons, practice exercises, progress tracking, and collaborative features to support students in mastering advanced mathematical concepts.
 
+*Read this in other languages: [Bahasa Indonesia](README.id.md).*
+
 ## Technical Requirements
 - **Platform**: Web-based application using modern web technologies (HTML5, CSS3, JavaScript).
 - **Compatibility**: Support for major web browsers (Chrome, Firefox, Safari, Edge) and mobile platforms (iOS, Android).
@@ -78,3 +80,5 @@ To run the frontend server, use the following command:
 npm run dev
 ```
 Open `http://localhost:8000` in your browser to access Math Rizz. When you want to access Math Rizz in a web browser, make sure you **do not close or stop both of those processes**.
+
+Now, you're all set to explore Math Rizz and enhance your mathematics learning experience! Happy learning! 📚✨
