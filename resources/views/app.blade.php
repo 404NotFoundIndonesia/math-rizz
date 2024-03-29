@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="author" content="404 Not Found Indonesia">
     <meta
-        content="Elearning for Quadratic Function"
+        content="Math Rizz"
         name="description">
-    <meta content="elearning quadratic function,404 not found indonesia,elearning fungsi kuadrat" name="keywords">
+    <meta content="elearning highschool,math rizz,math-rizz,math_rizz,404 not found indonesia,elearning math,404nf_id" name="keywords">
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="shortcut icon" href="{{ asset('logo.jpeg') }}"/>
