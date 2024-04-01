@@ -82,3 +82,13 @@ npm run dev
 Open `http://localhost:8000` in your browser to access Math Rizz. When you want to access Math Rizz in a web browser, make sure you **do not close or stop both of those processes**.
 
 Now, you're all set to explore Math Rizz and enhance your mathematics learning experience! Happy learning! 📚✨
+
+## Reference
+
+- [Susanto dkk. 2021. _Matematika untuk SMA/SMK Kelas X_. Pusat Kurikulum dan Perbukuan Badan Penelitian dan Pengembangan dan Perbukuan: Jakarta](https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Matematika-BS-KLS-X.pdf)
+- [Susanto dkk. 2021. _Matematika untuk SMA/SMK Kelas XI_. Pusat Perbukuan Badan Standar, Kurikulum, dan Asesmen Pendidikan: Jakarta](https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Matematika-BS-KLS-XI.pdf)
+- [Tohir dkk. 2022. _Matematika untuk SMA/SMK/MA Kelas XII_. Pusat Perbukuan Badan Standar, Kurikulum, dan Asesmen Pendidikan: Jakarta](https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Matematika-BS-KLS-XII.pdf)
+
+## License
+
+__Math Rizz__ is open-sourced software licensed under the [MIT license](https://github.com/404NotFoundIndonesia/math-rizz?tab=MIT-1-ov-file).

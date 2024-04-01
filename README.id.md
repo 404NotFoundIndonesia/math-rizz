@@ -83,3 +83,13 @@ Pastikan bahwa kedua server backend dan frontend berjalan secara bersamaan untuk
 Buka http://localhost:8000 di web browser Anda untuk mengakses Math Rizz.
 
 Sekarang, Anda siap untuk menjelajahi Math Rizz dan meningkatkan pengalaman belajar matematika Anda! Selamat belajar! 📚✨
+
+## Daftar Pustaka
+
+- [Susanto dkk. 2021. _Matematika untuk SMA/SMK Kelas X_. Pusat Kurikulum dan Perbukuan Badan Penelitian dan Pengembangan dan Perbukuan: Jakarta](https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Matematika-BS-KLS-X.pdf)
+- [Susanto dkk. 2021. _Matematika untuk SMA/SMK Kelas XI_. Pusat Perbukuan Badan Standar, Kurikulum, dan Asesmen Pendidikan: Jakarta](https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Matematika-BS-KLS-XI.pdf)
+- [Tohir dkk. 2022. _Matematika untuk SMA/SMK/MA Kelas XII_. Pusat Perbukuan Badan Standar, Kurikulum, dan Asesmen Pendidikan: Jakarta](https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Matematika-BS-KLS-XII.pdf)
+
+## Lisensi
+
+__Math Rizz__ adalah perangkat lunak _open-source_ yang dilisensikan di bawah lisensi [MIT license](https://github.com/404NotFoundIndonesia/math-rizz?tab=MIT-1-ov-file).
