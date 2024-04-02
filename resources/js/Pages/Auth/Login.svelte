@@ -32,7 +32,7 @@
                   </div>
                 </div>
               </div>
-              <form action="#!">
+              <form action="/dashboard">
                 <div class="row gy-3 overflow-hidden">
                   <div class="col-12">
                     <div class="form-floating mb-3">

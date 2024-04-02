@@ -35,8 +35,6 @@
                 <p class="poppins-extralight">
                     Baru mengenal fungsi kuadrat? Rute pembelajaran ini mencakup semua yang Anda butuhkan untuk memulai memahami fungsi kuadrat secara mendalam.
                 </p>
-
-                <a href="/" class="text-light poppins-regular mb-3 d-block">Meluncur ke TKP</a>
             </div>
         </div>
     </div>
@@ -73,62 +71,5 @@
 
     .hero-image {
         width: 100%;
-    }
-
-    .hexagon-wrapper {
-        display: flex;
-        text-align: initial;
-        width: 150px;
-        height: 150px;
-        cursor: pointer;
-    }
-
-    .hexagon {
-        position: relative;
-        width: 46%;
-        height: 80%;
-        margin: auto;
-        color: white;
-        background: linear-gradient(-180deg, white, #e6e6e6);
-        display: flex;
-        align-content: center;
-        justify-content: center;
-        transition: 0.5s;
-    }
-
-    .hexagon img {
-        z-index: 1;
-        margin: auto;
-        width: 100%;
-    }
-
-    .hexagon:before,
-    .hexagon:after {
-        position: absolute;
-        content: "";
-        background: inherit;
-        height: 100%;
-        width: 100%;
-        border-radius: 0;
-        transition: 0.5s;
-        transform-origin: center;
-    }
-    .hexagon:before {
-        transform: rotateZ(60deg);
-    }
-    .hexagon:after {
-        transform: rotateZ(-60deg);
-    }
-    .hexagon:hover {
-        border-radius: 50px;
-        transition: 0.5s;
-    }
-    .hexagon:hover:before {
-        border-radius: 50px;
-        transition: 0.5s;
-        }
-    .hexagon:hover:after {
-        border-radius: 50px;
-        transition: 0.5s;
     }
 </style>
