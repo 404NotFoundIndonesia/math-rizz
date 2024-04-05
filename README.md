@@ -1,4 +1,14 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/87377917?s=200&v=4" width="200" alt="404NFID Logo"></a></p>
+<div align="center">
+    <p>
+        <a href="https://github.com/404NotFoundIndonesia/" target="_blank">
+            <img src="https://avatars.githubusercontent.com/u/87377917?s=200&v=4" width="200" alt="404NFID Logo">
+        </a>
+    </p>
+
+ [![GitHub Stars](https://img.shields.io/github/stars/404NotFoundIndonesia/math-rizz.svg)](https://github.com/404NotFoundIndonesia/math-rizz/stargazers)
+ [![GitHub license](https://img.shields.io/github/license/404NotFoundIndonesia/math-rizz)](https://github.com/404NotFoundIndonesia/math-rizz/blob/main/LICENSE)
+ 
+</div>
 
 # Math Rizz
 
